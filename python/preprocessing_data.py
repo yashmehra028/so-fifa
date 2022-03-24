@@ -42,4 +42,4 @@ fifa_data['National Team'] = fifa_data['Teams'].apply(lambda x: x[1])
 fifa_data.reset_index(inplace=True)
 fifa_data.drop(columns=['Teams', 'Unnamed: 0', 'index'], inplace=True)
 
-fifa_data.to_csv("./data/processed.csv")
+fifa_data.to_csv("./data/processed.csv", index=False)
