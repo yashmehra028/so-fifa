@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://sifatsyed:082j65snDFNelCBJ@sofifacluster.0nmen.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  }
