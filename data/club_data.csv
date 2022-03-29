@@ -1,0 +1,691 @@
+Name,Overall,Attack,Midfield,Defence
+Liverpool,85.0,86.0,84.0,85.0
+Manchester City,85.0,84.0,87.0,85.0
+Paris Saint-Germain,85.0,90.0,82.0,84.0
+Chelsea,84.0,83.0,86.0,83.0
+FC Bayern München,84.0,92.0,85.0,82.0
+Real Madrid CF,84.0,84.0,85.0,83.0
+Manchester United,83.0,85.0,83.0,81.0
+Atlético de Madrid,83.0,85.0,82.0,82.0
+Inter,82.0,82.0,82.0,83.0
+Juventus,82.0,83.0,80.0,83.0
+Sevilla FC,82.0,81.0,81.0,83.0
+FC Barcelona,82.0,82.0,84.0,81.0
+Tottenham Hotspur,81.0,83.0,80.0,79.0
+Borussia Dortmund,81.0,84.0,81.0,81.0
+AC Milan,81.0,81.0,80.0,81.0
+Atalanta,80.0,82.0,79.0,79.0
+RB Leipzig,80.0,80.0,81.0,79.0
+Napoli,80.0,82.0,79.0,80.0
+Leicester City,80.0,80.0,81.0,78.0
+Real Sociedad,80.0,82.0,81.0,78.0
+Villarreal CF,80.0,79.0,80.0,80.0
+Arsenal,79.0,82.0,79.0,79.0
+West Ham United,79.0,80.0,79.0,76.0
+Bayer 04 Leverkusen,79.0,81.0,79.0,77.0
+Lazio,79.0,79.0,80.0,79.0
+Roma,79.0,79.0,78.0,78.0
+Athletic Club de Bilbao,79.0,80.0,78.0,78.0
+Real Betis Balompié,79.0,79.0,80.0,78.0
+SL Benfica,79.0,76.0,79.0,79.0
+Sporting CP,79.0,79.0,80.0,78.0
+Ajax,79.0,82.0,77.0,80.0
+Aston Villa,78.0,79.0,77.0,79.0
+Everton,78.0,81.0,77.0,77.0
+Borussia Mönchengladbach,78.0,78.0,78.0,77.0
+Olympique Lyonnais,78.0,78.0,79.0,76.0
+Wolverhampton Wanderers,78.0,79.0,80.0,78.0
+Olympique de Marseille,78.0,79.0,78.0,76.0
+Newcastle United,77.0,77.0,77.0,77.0
+Eintracht Frankfurt,77.0,76.0,76.0,78.0
+TSG Hoffenheim,77.0,77.0,77.0,76.0
+AS Monaco,77.0,83.0,78.0,76.0
+VfL Wolfsburg,77.0,75.0,78.0,76.0
+RCD Espanyol de Barcelona,77.0,82.0,77.0,75.0
+Valencia CF,77.0,78.0,76.0,78.0
+FC Porto,77.0,77.0,77.0,77.0
+Granada CF,77.0,77.0,77.0,77.0
+PSV,77.0,77.0,77.0,75.0
+Burnley,76.0,77.0,75.0,77.0
+Crystal Palace,76.0,76.0,76.0,75.0
+Leeds United,76.0,78.0,77.0,75.0
+Brighton & Hove Albion,76.0,77.0,75.0,76.0
+Southampton,76.0,75.0,76.0,75.0
+Flamengo,76.0,77.0,76.0,75.0
+Olympiacos CFP,76.0,76.0,74.0,75.0
+Fiorentina,76.0,76.0,77.0,77.0
+Levante Unión Deportiva,76.0,77.0,78.0,73.0
+LOSC Lille,76.0,78.0,76.0,77.0
+Getafe CF,76.0,75.0,76.0,75.0
+OGC Nice,76.0,79.0,75.0,76.0
+Stade Rennais FC,76.0,78.0,76.0,76.0
+River Plate,76.0,78.0,76.0,75.0
+RC Celta de Vigo,76.0,80.0,76.0,76.0
+CA Osasuna,76.0,77.0,76.0,75.0
+Watford,75.0,75.0,75.0,74.0
+SK Slavia Praha,75.0,72.0,75.0,74.0
+Clube Atlético Mineiro,75.0,74.0,74.0,76.0
+Sport-Club Freiburg,75.0,73.0,74.0,76.0
+U.C. Sampdoria,75.0,77.0,75.0,73.0
+Torino F.C.,75.0,76.0,75.0,76.0
+Racing Club de Lens,75.0,74.0,76.0,75.0
+Fenerbahçe SK,75.0,74.0,73.0,74.0
+RC Strasbourg Alsace,75.0,77.0,74.0,74.0
+Boca Juniors,75.0,75.0,73.0,75.0
+U.S. Sassuolo Calcio,75.0,76.0,75.0,71.0
+Hertha BSC,75.0,75.0,75.0,74.0
+Cádiz CF,75.0,77.0,74.0,73.0
+Tigres U.A.N.L.,75.0,79.0,76.0,73.0
+Trabzonspor,75.0,75.0,76.0,70.0
+Bologna,75.0,78.0,75.0,73.0
+Shakhtar Donetsk,75.0,75.0,74.0,75.0
+RCD Mallorca,75.0,75.0,74.0,75.0
+Deportivo Alavés,75.0,76.0,74.0,76.0
+Club Brugge KV,75.0,76.0,74.0,75.0
+Feyenoord,75.0,75.0,75.0,76.0
+Norwich City,74.0,75.0,73.0,73.0
+AC Sparta Praha,74.0,77.0,74.0,73.0
+Internacional,74.0,71.0,74.0,75.0
+1. FC Köln,74.0,75.0,75.0,73.0
+VfB Stuttgart,74.0,74.0,74.0,73.0
+Udinese Calcio,74.0,75.0,73.0,74.0
+FC Augsburg,74.0,73.0,74.0,70.0
+PFC CSKA Moscow,74.0,73.0,73.0,75.0
+Galatasaray SK,74.0,75.0,73.0,74.0
+Montpellier Hérault SC,74.0,73.0,77.0,73.0
+Beşiktaş JK,74.0,74.0,73.0,73.0
+Rangers FC,74.0,74.0,74.0,73.0
+Club América,74.0,74.0,73.0,72.0
+RB Bragantino,74.0,74.0,74.0,75.0
+SC Braga,74.0,75.0,71.0,74.0
+Brentford,74.0,76.0,75.0,74.0
+Fulham,74.0,78.0,74.0,72.0
+1. FSV Mainz 05,74.0,74.0,74.0,75.0
+Dynamo Kyiv,74.0,73.0,75.0,72.0
+Hellas Verona,74.0,76.0,75.0,74.0
+Elche CF,74.0,75.0,74.0,73.0
+Rayo Vallecano,74.0,78.0,74.0,73.0
+Sheffield United,73.0,69.0,73.0,72.0
+AEK Athens,73.0,74.0,74.0,70.0
+AS Saint-Étienne,73.0,75.0,73.0,72.0
+Santos,73.0,74.0,72.0,72.0
+1. FC Union Berlin,73.0,73.0,73.0,73.0
+Cagliari,73.0,75.0,72.0,68.0
+FC Girondins de Bordeaux,73.0,73.0,74.0,72.0
+Unión Deportiva Almería,73.0,76.0,72.0,72.0
+Club Atlético Colón,73.0,75.0,73.0,72.0
+FC Nantes,73.0,74.0,74.0,71.0
+Celtic,73.0,72.0,73.0,73.0
+Cruz Azul,73.0,73.0,72.0,73.0
+Al Hilal,73.0,76.0,75.0,71.0
+Grêmio,73.0,72.0,72.0,74.0
+Stade Brestois 29,73.0,71.0,73.0,73.0
+Stade de Reims,73.0,70.0,72.0,74.0
+FC Viktoria Plzeň,73.0,74.0,74.0,72.0
+PAOK,73.0,73.0,73.0,71.0
+İstanbul Başakşehir FK,73.0,76.0,73.0,72.0
+AFC Bournemouth,73.0,73.0,74.0,72.0
+FC Lokomotiv Moscow,73.0,75.0,72.0,74.0
+Spartak Moskva,73.0,75.0,73.0,72.0
+Club León,73.0,71.0,73.0,72.0
+FC Red Bull Salzburg,73.0,73.0,72.0,73.0
+Venezia FC,73.0,72.0,72.0,72.0
+Real Valladolid CF,73.0,74.0,74.0,73.0
+SD Eibar,73.0,72.0,73.0,72.0
+Genoa,73.0,72.0,72.0,72.0
+Racing Club,73.0,74.0,73.0,73.0
+Angers SCO,73.0,73.0,74.0,73.0
+Club Atlético Independiente,72.0,73.0,73.0,71.0
+Fatih Karagümrük S.K.,72.0,73.0,73.0,70.0
+SV Werder Bremen,72.0,72.0,70.0,72.0
+ESTAC Troyes,72.0,72.0,73.0,70.0
+Fluminense,72.0,74.0,72.0,72.0
+FC Metz,72.0,72.0,72.0,73.0
+Panathinaikos FC,72.0,72.0,72.0,70.0
+AZ Alkmaar,72.0,73.0,73.0,73.0
+DSC Arminia Bielefeld,72.0,71.0,72.0,73.0
+VfL Bochum 1848,72.0,70.0,72.0,72.0
+KRC Genk,72.0,75.0,73.0,72.0
+KAA Gent,72.0,72.0,72.0,71.0
+Fortaleza,72.0,74.0,71.0,72.0
+Empoli,72.0,73.0,70.0,69.0
+Dinamo Zagreb,72.0,75.0,72.0,72.0
+Ceará Sporting Club,72.0,71.0,72.0,73.0
+Vélez Sarsfield,72.0,73.0,70.0,72.0
+RSC Anderlecht,72.0,72.0,73.0,72.0
+Royal Antwerp FC,72.0,73.0,72.0,72.0
+Girona FC,72.0,74.0,72.0,71.0
+Atlético Clube Goianiense,72.0,71.0,71.0,73.0
+Blackburn Rovers,71.0,71.0,72.0,71.0
+Hajduk Split,71.0,75.0,69.0,70.0
+Al Nassr,71.0,79.0,69.0,68.0
+Nottingham Forest,71.0,70.0,70.0,71.0
+Queens Park Rangers,71.0,71.0,71.0,70.0
+Clermont Foot 63,71.0,72.0,71.0,72.0
+Hamburger SV,71.0,69.0,71.0,71.0
+FC Schalke 04,71.0,73.0,70.0,71.0
+US Salernitana 1919,71.0,71.0,71.0,68.0
+Seattle Sounders FC,71.0,74.0,70.0,70.0
+F.C. København,71.0,71.0,70.0,70.0
+Club Atlético Lanús,71.0,73.0,72.0,70.0
+Club Tijuana,71.0,72.0,71.0,71.0
+Santos Laguna,71.0,72.0,72.0,70.0
+Pachuca,71.0,73.0,71.0,69.0
+Ferencvárosi TC,71.0,69.0,71.0,71.0
+Club Deportivo Guadalajara,71.0,73.0,68.0,69.0
+Deportivo Toluca,71.0,75.0,72.0,68.0
+Defensa y Justicia,71.0,72.0,71.0,70.0
+Vitória de Guimarães,71.0,73.0,70.0,70.0
+Los Angeles FC,71.0,74.0,71.0,68.0
+West Bromwich Albion,71.0,71.0,72.0,71.0
+FC Utrecht,71.0,71.0,71.0,70.0
+FC Basel 1893,71.0,72.0,70.0,71.0
+BSC Young Boys,71.0,72.0,71.0,71.0
+Spezia,71.0,71.0,69.0,70.0
+Adana Demirspor,71.0,73.0,71.0,71.0
+Club Libertad,71.0,69.0,69.0,72.0
+SpVgg Greuther Fürth,71.0,71.0,70.0,71.0
+Columbus Crew,71.0,70.0,71.0,71.0
+FC Lorient,71.0,72.0,73.0,70.0
+Estudiantes de La Plata,71.0,73.0,72.0,71.0
+Antalyaspor,71.0,74.0,71.0,69.0
+Atlético Nacional,71.0,73.0,71.0,70.0
+Junior FC,71.0,74.0,69.0,70.0
+Rosario Central,71.0,73.0,69.0,71.0
+Aytemiz Alanyaspor,71.0,71.0,72.0,71.0
+Club Atlas,71.0,73.0,69.0,71.0
+Reading,70.0,72.0,70.0,70.0
+CD Tenerife,70.0,72.0,70.0,70.0
+Coventry City,70.0,70.0,72.0,69.0
+Preston North End,70.0,67.0,71.0,70.0
+Middlesbrough,70.0,72.0,70.0,70.0
+Stoke City,70.0,70.0,71.0,70.0
+Club Atlético Talleres,70.0,70.0,69.0,71.0
+Portland Timbers,70.0,71.0,71.0,69.0
+Club Atlético de San Luis,70.0,71.0,72.0,67.0
+Fortuna Düsseldorf,70.0,71.0,70.0,71.0
+Portimonense SC,70.0,70.0,71.0,69.0
+Parma,70.0,70.0,67.0,71.0
+Malmö FF,70.0,70.0,70.0,69.0
+Gallos Blancos de Querétaro,70.0,73.0,69.0,66.0
+Club Universidad Nacional,70.0,72.0,68.0,70.0
+Al Ittihad,70.0,77.0,72.0,67.0
+Gil Vicente FC,70.0,71.0,70.0,70.0
+Millwall,70.0,70.0,69.0,70.0
+FC Paços de Ferreira,70.0,69.0,71.0,70.0
+Clube Sport Marítimo,70.0,69.0,69.0,70.0
+Boavista FC,70.0,70.0,69.0,70.0
+Kawasaki Frontale,70.0,71.0,69.0,70.0
+Vitesse,70.0,69.0,68.0,74.0
+Universidad Católica,70.0,69.0,70.0,67.0
+Barcelona Sporting Club,70.0,70.0,70.0,69.0
+Huddersfield Town,70.0,69.0,69.0,70.0
+Yukatel Kayserispor,70.0,72.0,70.0,68.0
+Göztepe SK,70.0,71.0,72.0,69.0
+Atakaş Hatayspor,70.0,71.0,70.0,68.0
+Swansea City,70.0,70.0,70.0,71.0
+Futebol Clube de Famalicão,70.0,70.0,71.0,70.0
+Argentinos Juniors,70.0,71.0,70.0,71.0
+Çaykur Rizespor,70.0,73.0,70.0,69.0
+Demir Grup Sivasspor,70.0,71.0,72.0,68.0
+New England Revolution,70.0,73.0,70.0,69.0
+Gazişehir Gaziantep F.K.,70.0,69.0,69.0,70.0
+New York City FC,70.0,72.0,70.0,69.0
+AC Monza,70.0,69.0,69.0,70.0
+Jeonbuk Hyundai Motors,70.0,72.0,69.0,69.0
+Real Sporting de Gijón,70.0,72.0,70.0,68.0
+Unión Deportiva Las Palmas,70.0,73.0,70.0,70.0
+Royale Union Saint-Gilloise,70.0,73.0,71.0,69.0
+Orlando City Soccer Club,70.0,70.0,69.0,69.0
+Standard de Liège,70.0,67.0,71.0,68.0
+Kasimpaşa SK,70.0,71.0,69.0,70.0
+FC Midtjylland,70.0,70.0,71.0,71.0
+FC Cartagena,70.0,72.0,71.0,69.0
+Real Zaragoza,70.0,69.0,69.0,70.0
+Club Olimpia,70.0,70.0,69.0,68.0
+San Lorenzo de Almagro,70.0,69.0,70.0,70.0
+Atlanta United,70.0,70.0,69.0,69.0
+SD Huesca,70.0,67.0,70.0,68.0
+Club Necaxa,69.0,70.0,66.0,67.0
+Philadelphia Union,69.0,69.0,69.0,68.0
+CD Leganés,69.0,69.0,69.0,70.0
+Yokohama F. Marinos,69.0,69.0,69.0,68.0
+Minnesota United FC,69.0,70.0,69.0,67.0
+Estoril Praia,69.0,69.0,70.0,69.0
+Karlsruher SC,69.0,69.0,69.0,68.0
+SC Paderborn 07,69.0,70.0,69.0,68.0
+San Jose Earthquakes,69.0,69.0,70.0,69.0
+AJ Auxerre,69.0,73.0,69.0,69.0
+Al Shabab,69.0,70.0,71.0,66.0
+Málaga CF,69.0,70.0,69.0,69.0
+UD Ibiza,69.0,70.0,69.0,68.0
+Club Atlético Banfield,69.0,70.0,71.0,66.0
+Puebla FC,69.0,68.0,70.0,68.0
+Legia Warszawa,69.0,67.0,68.0,66.0
+Kaizer Chiefs,69.0,69.0,67.0,67.0
+Orlando Pirates,69.0,71.0,66.0,67.0
+Birmingham City,69.0,70.0,69.0,69.0
+Lecce,69.0,70.0,67.0,67.0
+Atlético Tucumán,69.0,69.0,70.0,68.0
+Belenenses SAD,69.0,68.0,69.0,67.0
+Unión de Santa Fe,69.0,68.0,69.0,69.0
+Lech Poznań,69.0,70.0,69.0,69.0
+Moreirense FC,69.0,69.0,70.0,69.0
+FC Twente,69.0,68.0,70.0,68.0
+Fortuna Sittard,69.0,69.0,68.0,69.0
+Bristol City,69.0,69.0,69.0,70.0
+Luton Town,69.0,69.0,69.0,69.0
+1. FC Heidenheim 1846,69.0,68.0,69.0,71.0
+KV Mechelen,69.0,69.0,70.0,69.0
+CD Tondela,69.0,69.0,68.0,69.0
+FCSB (Steaua),69.0,68.0,69.0,69.0
+Benevento,69.0,70.0,69.0,69.0
+SV Zulte Waregem,69.0,70.0,70.0,68.0
+Royal Charleroi S.C.,69.0,67.0,71.0,68.0
+Santa Clara,69.0,69.0,70.0,69.0
+SV Darmstadt 98,69.0,69.0,69.0,69.0
+Cardiff City,69.0,67.0,69.0,68.0
+İttifak Holding Konyaspor,69.0,71.0,68.0,71.0
+KV Oostende,69.0,69.0,69.0,68.0
+1. FC Nürnberg,69.0,69.0,68.0,70.0
+FC Vizela,69.0,69.0,70.0,68.0
+FC Dallas,69.0,72.0,68.0,69.0
+Sporting Kansas City,69.0,70.0,69.0,68.0
+SK Sturm Graz,69.0,66.0,69.0,68.0
+Urawa Red Diamonds,69.0,72.0,67.0,70.0
+Gimnasia y Esgrima La Plata,69.0,69.0,68.0,68.0
+Nîmes Olympique,69.0,69.0,72.0,68.0
+Hannover 96,69.0,70.0,69.0,69.0
+SD Ponferradina,69.0,71.0,69.0,69.0
+Real Oviedo,69.0,70.0,70.0,69.0
+Fútbol Club Juárez,69.0,69.0,65.0,70.0
+Nashville SC,69.0,70.0,69.0,69.0
+Oud-Heverlee Leuven,69.0,70.0,70.0,68.0
+FC St. Pauli,69.0,71.0,69.0,69.0
+LASK Linz,69.0,69.0,70.0,67.0
+SK Rapid Wien,69.0,66.0,70.0,70.0
+Al Taawoun,68.0,71.0,69.0,64.0
+Aarhus GF,68.0,69.0,69.0,67.0
+Toulouse Football Club,68.0,67.0,69.0,67.0
+Amiens SC,68.0,64.0,69.0,63.0
+Heracles Almelo,68.0,67.0,67.0,67.0
+Vissel Kobe,68.0,69.0,70.0,67.0
+Kashima Antlers,68.0,70.0,69.0,64.0
+Cerezo Osaka,68.0,66.0,69.0,69.0
+FC Tokyo,68.0,67.0,65.0,68.0
+SSV Jahn Regensburg,68.0,68.0,67.0,68.0
+Club de Foot Montréal,68.0,69.0,67.0,70.0
+APOEL Nicosia FC,68.0,71.0,68.0,67.0
+FC Lugano,68.0,66.0,68.0,68.0
+Platense,68.0,69.0,69.0,66.0
+Universitatea Craiova,68.0,66.0,67.0,68.0
+Aalborg BK,68.0,69.0,69.0,67.0
+Holstein Kiel,68.0,69.0,69.0,68.0
+Servette FC,68.0,69.0,69.0,67.0
+Club Atlético Central Córdoba,68.0,67.0,67.0,68.0
+Club Atlético Sarmiento,68.0,71.0,66.0,66.0
+Heart of Midlothian,68.0,68.0,69.0,68.0
+Al Ain FC,68.0,75.0,69.0,65.0
+Godoy Cruz,68.0,69.0,69.0,67.0
+Derby County,68.0,66.0,68.0,67.0
+Club Atlético Aldosivi,68.0,70.0,68.0,65.0
+Burgos CF,68.0,68.0,69.0,66.0
+Club Atlético Huracán,68.0,67.0,68.0,67.0
+SV Sandhausen,68.0,70.0,68.0,68.0
+Shandong Taishan,68.0,63.0,70.0,66.0
+N.E.C. Nijmegen,68.0,68.0,69.0,66.0
+Club Bolívar,68.0,66.0,69.0,67.0
+FC Zürich,68.0,66.0,69.0,66.0
+FC Arouca,68.0,69.0,68.0,68.0
+Barnsley,68.0,68.0,67.0,68.0
+Altay SK,68.0,69.0,69.0,66.0
+FK Bodø/Glimt,68.0,68.0,67.0,68.0
+Shanghai Port FC,68.0,68.0,70.0,67.0
+Hull City,68.0,68.0,68.0,67.0
+Sint-Truidense VV,68.0,67.0,68.0,67.0
+New York Red Bulls,68.0,67.0,66.0,69.0
+FC Sion,68.0,63.0,68.0,67.0
+Colorado Rapids,68.0,70.0,69.0,67.0
+LA Galaxy,68.0,74.0,68.0,66.0
+Houston Dynamo,68.0,72.0,68.0,67.0
+Ulsan Hyundai FC,68.0,69.0,68.0,69.0
+Jeju United FC,68.0,70.0,72.0,65.0
+Paris FC,68.0,67.0,68.0,67.0
+Stade Malherbe Caen,68.0,69.0,68.0,66.0
+Mazatlán Futbol Club,68.0,70.0,68.0,67.0
+KSV Cercle Brugge,68.0,68.0,70.0,67.0
+Nagoya Grampus,68.0,65.0,68.0,68.0
+KAS Eupen,68.0,71.0,67.0,66.0
+CFR Cluj,68.0,68.0,69.0,70.0
+Dijon FCO,68.0,68.0,68.0,68.0
+KV Kortrijk,68.0,66.0,68.0,69.0
+Austin FC,68.0,68.0,69.0,64.0
+Vancouver Whitecaps FC,68.0,69.0,68.0,67.0
+GZT Giresunspor,68.0,69.0,69.0,68.0
+Inter Miami CF,68.0,70.0,68.0,65.0
+FK Austria Wien,67.0,65.0,66.0,67.0
+Al Ahli,67.0,76.0,66.0,66.0
+Rotherham United,67.0,68.0,67.0,67.0
+Al Faisaly,67.0,69.0,69.0,64.0
+Sanfrecce Hiroshima,67.0,68.0,67.0,68.0
+Al Raed,67.0,72.0,67.0,64.0
+Independiente del Valle,67.0,71.0,66.0,66.0
+Brøndby IF,67.0,65.0,67.0,68.0
+Grenoble Foot 38,67.0,68.0,66.0,66.0
+Sheffield Wednesday,67.0,66.0,68.0,67.0
+Go Ahead Eagles,67.0,66.0,68.0,66.0
+F.C. Hansa Rostock,67.0,68.0,67.0,67.0
+Shimizu S-Pulse,67.0,67.0,66.0,66.0
+Sparta Rotterdam,67.0,67.0,67.0,67.0
+Sydney FC,67.0,69.0,67.0,65.0
+Rosenborg BK,67.0,69.0,67.0,65.0
+Arsenal de Sarandí,67.0,68.0,66.0,67.0
+Grasshopper Club Zürich,67.0,62.0,66.0,66.0
+Club Cerro Porteño,67.0,67.0,65.0,66.0
+AC Ajaccio,67.0,67.0,68.0,68.0
+Club Deportes Tolima,67.0,68.0,67.0,66.0
+Yeni Malatyaspor,67.0,68.0,68.0,67.0
+Valenciennes FC,67.0,70.0,65.0,67.0
+SC Heerenveen,67.0,66.0,66.0,67.0
+Club The Strongest,67.0,68.0,68.0,66.0
+FC Groningen,67.0,69.0,67.0,67.0
+Wigan Athletic,67.0,66.0,68.0,67.0
+Club Deportivo Jorge Wilstermann,67.0,68.0,66.0,66.0
+FC Luzern,67.0,66.0,67.0,66.0
+Blackpool,67.0,67.0,68.0,67.0
+FC Ingolstadt 04,67.0,67.0,67.0,66.0
+CS Emelec,67.0,65.0,68.0,67.0
+LDU Quito,67.0,67.0,68.0,67.0
+Peterborough United,67.0,69.0,67.0,67.0
+Raków Częstochowa,67.0,67.0,67.0,67.0
+Pogoń Szczecin,67.0,66.0,66.0,66.0
+Molde FK,67.0,69.0,65.0,67.0
+K Beerschot VA,67.0,67.0,68.0,67.0
+Club Sporting Cristal,67.0,65.0,68.0,68.0
+Club Universitario de Deportes,67.0,67.0,65.0,67.0
+D.C. United,67.0,66.0,66.0,68.0
+AIK,67.0,69.0,67.0,66.0
+Chicago Fire Football Club,67.0,66.0,68.0,65.0
+Djurgårdens IF,67.0,67.0,68.0,65.0
+Le Havre AC,67.0,67.0,66.0,67.0
+RZ Pellets Wolfsberger AC,67.0,68.0,68.0,66.0
+Real Salt Lake,67.0,68.0,64.0,66.0
+Club Nacional de Football,67.0,66.0,66.0,66.0
+Gamba Osaka,67.0,67.0,66.0,69.0
+Club Deportivo Palestino,67.0,68.0,67.0,66.0
+Ettifaq FC,67.0,69.0,72.0,62.0
+América de Cali,67.0,68.0,67.0,65.0
+CD Lugo,67.0,67.0,67.0,66.0
+CF Fuenlabrada,67.0,67.0,69.0,66.0
+CD Mirandés,67.0,67.0,68.0,65.0
+Patronato,67.0,68.0,66.0,66.0
+Club Atlético Peñarol,67.0,67.0,69.0,64.0
+SG Dynamo Dresden,67.0,67.0,67.0,67.0
+FC Erzgebirge Aue,67.0,66.0,66.0,66.0
+FC Cincinnati,67.0,66.0,69.0,66.0
+Sagan Tosu,66.0,64.0,66.0,67.0
+Kashiwa Reysol,66.0,67.0,66.0,66.0
+1. FC Kaiserslautern,66.0,66.0,66.0,66.0
+AS Nancy Lorraine,66.0,66.0,65.0,64.0
+TSV 1860 München,66.0,67.0,66.0,65.0
+Avispa Fukuoka,66.0,66.0,66.0,65.0
+Toronto FC,66.0,67.0,67.0,65.0
+Viking FK,66.0,68.0,64.0,65.0
+Seraing,66.0,68.0,65.0,65.0
+Hokkaido Consadole Sapporo,66.0,65.0,66.0,68.0
+En Avant de Guingamp,66.0,66.0,67.0,64.0
+IFK Göteborg,66.0,66.0,66.0,67.0
+FC Lausanne-Sport,66.0,64.0,65.0,66.0
+Aberdeen,66.0,67.0,64.0,66.0
+Hibernian,66.0,66.0,65.0,66.0
+Charlton Athletic,66.0,66.0,66.0,65.0
+Ipswich Town,66.0,66.0,66.0,65.0
+Melbourne City FC,66.0,75.0,66.0,66.0
+Western United FC,66.0,66.0,66.0,66.0
+Sunderland,66.0,68.0,65.0,66.0
+RKC Waalwijk,66.0,66.0,64.0,66.0
+Willem II,66.0,66.0,67.0,66.0
+Real Sociedad B,66.0,65.0,66.0,65.0
+PEC Zwolle,66.0,66.0,66.0,66.0
+FC St. Gallen 1879,66.0,64.0,68.0,62.0
+SC Cambuur,66.0,65.0,67.0,67.0
+La Equidad,66.0,65.0,66.0,65.0
+Wycombe Wanderers,66.0,66.0,65.0,67.0
+CD Antofagasta,66.0,67.0,66.0,65.0
+Unión La Calera,66.0,67.0,65.0,69.0
+Vålerenga Fotball,66.0,66.0,66.0,66.0
+Jagiellonia Białystok,66.0,65.0,65.0,65.0
+Zagłębie Lubin,66.0,66.0,64.0,65.0
+Shenzhen FC,66.0,72.0,66.0,61.0
+Eintracht Braunschweig,66.0,65.0,66.0,66.0
+Club Deportivo Guabirá,66.0,67.0,65.0,64.0
+Incheon United FC,66.0,68.0,66.0,66.0
+IF Elfsborg,66.0,65.0,64.0,68.0
+IFK Norrköping,66.0,68.0,64.0,65.0
+Pohang Steelers,66.0,62.0,65.0,61.0
+Hammarby IF,66.0,66.0,67.0,65.0
+SD Amorebieta,66.0,66.0,66.0,65.0
+FC Seoul,66.0,66.0,68.0,64.0
+Suwon Samsung Bluewings,66.0,64.0,66.0,68.0
+TSV Egger Glas Hartberg,66.0,66.0,65.0,66.0
+FC Sochaux-Montbéliard,66.0,66.0,66.0,67.0
+FBC Melgar,66.0,67.0,67.0,64.0
+Piast Gliwice,66.0,68.0,66.0,66.0
+Club Independiente Santa Fe,66.0,66.0,65.0,63.0
+Lechia Gdańsk,66.0,68.0,66.0,63.0
+Śląsk Wrocław,66.0,66.0,66.0,65.0
+Montevideo City Torque,66.0,64.0,65.0,66.0
+Randers FC,66.0,67.0,67.0,66.0
+FC Farul Constanța,66.0,66.0,65.0,66.0
+Portsmouth,66.0,66.0,66.0,66.0
+Guaireña FC,65.0,64.0,65.0,65.0
+Bolton Wanderers,65.0,66.0,66.0,64.0
+Milton Keynes Dons,65.0,66.0,64.0,64.0
+Al Fateh,65.0,69.0,67.0,62.0
+Shonan Bellmare,65.0,66.0,65.0,63.0
+Silkeborg IF,65.0,68.0,64.0,64.0
+Odense Boldklub,65.0,68.0,64.0,65.0
+Metropolitanos de Caracas FC,65.0,65.0,64.0,64.0
+Chamois Niortais Football Club,65.0,66.0,65.0,64.0
+FC Voluntari,65.0,64.0,66.0,65.0
+Club Nacional,65.0,64.0,64.0,65.0
+Oita Trinita,65.0,65.0,64.0,64.0
+Melbourne Victory,65.0,66.0,66.0,65.0
+Lillestrøm SK,65.0,65.0,66.0,65.0
+Rodez Aveyron Football,65.0,63.0,65.0,64.0
+Western Sydney Wanderers,65.0,67.0,65.0,61.0
+Rapid București,65.0,62.0,64.0,66.0
+Vejle Boldklub,65.0,64.0,65.0,65.0
+SC Bastia,65.0,63.0,65.0,64.0
+Damac FC,65.0,67.0,65.0,64.0
+Cerro Largo Fútbol Club,65.0,65.0,65.0,65.0
+Wisła Kraków,65.0,67.0,63.0,64.0
+Motherwell,65.0,63.0,64.0,65.0
+Plymouth Argyle,65.0,64.0,66.0,65.0
+Crotone,65.0,64.0,68.0,64.0
+Club Always Ready,65.0,68.0,65.0,65.0
+Cracovia,65.0,66.0,65.0,65.0
+Oxford United,65.0,66.0,66.0,64.0
+12 de Octubre FC,65.0,66.0,64.0,65.0
+SC Rheindorf Altach,65.0,65.0,65.0,63.0
+Al Fayha,65.0,68.0,66.0,62.0
+Abha Club,65.0,68.0,66.0,63.0
+Henan Songshan Longmen FC,65.0,71.0,64.0,62.0
+Górnik Zabrze,65.0,66.0,65.0,65.0
+USL Dunkerque,65.0,65.0,64.0,65.0
+Macarthur FC,65.0,66.0,62.0,65.0
+Dundee United,65.0,64.0,65.0,64.0
+Universidad Técnica de Cajamarca,65.0,64.0,64.0,65.0
+WSG Tirol,65.0,65.0,64.0,66.0
+St. Johnstone FC,65.0,63.0,64.0,64.0
+SV Waldhof Mannheim 07,65.0,66.0,66.0,65.0
+Vegalta Sendai,65.0,66.0,64.0,63.0
+BK Häcken,65.0,64.0,65.0,61.0
+AD Alcorcón,65.0,65.0,66.0,65.0
+Sepsi OSK Sf. Gheorghe,65.0,65.0,64.0,65.0
+VfL Osnabrück,65.0,65.0,65.0,65.0
+SV Wehen Wiesbaden,65.0,65.0,65.0,64.0
+Deportivo Cali,65.0,67.0,66.0,64.0
+Radomiak Radom,65.0,65.0,65.0,65.0
+Pau FC,65.0,64.0,65.0,65.0
+Gangwon FC,65.0,65.0,63.0,64.0
+SK Austria Klagenfurt,65.0,66.0,66.0,65.0
+FC Nordsjælland,65.0,65.0,65.0,66.0
+1. FC Magdeburg,65.0,65.0,65.0,65.0
+FSV Zwickau,64.0,64.0,62.0,64.0
+FC U Craiova 1948,64.0,65.0,64.0,64.0
+SV Meppen,64.0,64.0,64.0,64.0
+Daegu FC,64.0,63.0,65.0,63.0
+1. FC Saarbrücken,64.0,64.0,64.0,63.0
+SV Ried,64.0,62.0,65.0,64.0
+Club Atlético Nacional Potosí,64.0,62.0,63.0,65.0
+Wisła Płock,64.0,62.0,64.0,64.0
+MSV Duisburg,64.0,65.0,63.0,62.0
+Adelaide United,64.0,63.0,66.0,63.0
+Guangzhou City,64.0,58.0,67.0,62.0
+Yokohama FC,64.0,65.0,64.0,64.0
+Kristiansund BK,64.0,63.0,64.0,64.0
+Viktoria Köln,64.0,62.0,66.0,63.0
+Guayaquil City FC,64.0,65.0,64.0,63.0
+Al Hazem,64.0,65.0,65.0,62.0
+Sarpsborg 08 FF,64.0,63.0,65.0,65.0
+Sport Huancayo,64.0,64.0,64.0,63.0
+PGE FKS Stal Mielec,64.0,63.0,64.0,63.0
+Al Batin,64.0,63.0,64.0,63.0
+Shanghai Shenhua FC,64.0,62.0,65.0,62.0
+Deportivo Pasto,64.0,62.0,66.0,63.0
+Livingston FC,64.0,64.0,64.0,64.0
+FC Würzburger Kickers,64.0,63.0,64.0,64.0
+Ross County FC,64.0,63.0,65.0,63.0
+Bruk-Bet Termalica Nieciecza,64.0,63.0,62.0,65.0
+Shrewsbury Town,64.0,63.0,65.0,65.0
+Warta Poznań,64.0,64.0,63.0,65.0
+Club de Deportes Cobresal,64.0,66.0,62.0,62.0
+Fleetwood Town,64.0,63.0,59.0,62.0
+Sociedad Deportiva Aucas,64.0,67.0,63.0,62.0
+Tokushima Vortis,64.0,66.0,64.0,62.0
+Club River Plate Asunción,64.0,63.0,65.0,64.0
+Hallescher FC,64.0,64.0,65.0,64.0
+Lincoln City,64.0,65.0,64.0,63.0
+Wellington Phoenix,64.0,65.0,65.0,62.0
+Campionii FC Arges,64.0,64.0,63.0,64.0
+Cambridge United,64.0,66.0,64.0,64.0
+Beijing Guoan FC,64.0,65.0,65.0,62.0
+Strømsgodset IF,64.0,63.0,66.0,64.0
+Centro Atlético Fénix,64.0,61.0,64.0,64.0
+AFC UTA Arad,64.0,65.0,64.0,65.0
+FC Botoşani,64.0,63.0,63.0,65.0
+Viborg FF,64.0,64.0,65.0,65.0
+SønderjyskE,64.0,61.0,64.0,64.0
+Burton Albion,64.0,63.0,63.0,65.0
+US Quevilly Rouen Métropole,64.0,65.0,65.0,63.0
+Suwon FC,64.0,65.0,65.0,64.0
+Dundee FC,64.0,62.0,64.0,63.0
+Carlos A. Mannucci,64.0,64.0,64.0,63.0
+Al Tai,64.0,69.0,65.0,61.0
+St. Mirren,64.0,61.0,65.0,64.0
+FC Flyeralarm Admira,64.0,61.0,64.0,64.0
+Deportivo La Guaira FC,64.0,63.0,65.0,63.0
+Türkgücü München,64.0,64.0,63.0,64.0
+CD Huachipato,64.0,63.0,65.0,62.0
+Guangzhou FC,64.0,67.0,62.0,69.0
+HJK Helsinki,64.0,63.0,65.0,64.0
+Accrington Stanley,64.0,62.0,64.0,64.0
+AFC Chindia Târgoviște,64.0,65.0,63.0,64.0
+Salford City,63.0,64.0,63.0,63.0
+Gillingham,63.0,63.0,64.0,63.0
+Bradford City,63.0,62.0,63.0,62.0
+Newcastle Jets,63.0,64.0,63.0,62.0
+Perth Glory,63.0,69.0,61.0,62.0
+Forest Green Rovers,63.0,64.0,63.0,64.0
+Shamrock Rovers,63.0,65.0,62.0,63.0
+IK Sirius,63.0,64.0,62.0,63.0
+Club Atlético Rentistas,63.0,65.0,61.0,64.0
+Borussia Dortmund II,63.0,63.0,63.0,63.0
+Morecambe,63.0,64.0,63.0,63.0
+Newport County,63.0,62.0,62.0,63.0
+GwangJu FC,63.0,64.0,63.0,62.0
+AFC Wimbledon,63.0,64.0,64.0,63.0
+Port Vale,63.0,61.0,64.0,63.0
+Northampton Town,63.0,61.0,63.0,64.0
+Doncaster Rovers,63.0,62.0,64.0,61.0
+Deportivo Táchira FC,63.0,63.0,64.0,63.0
+Cheltenham Town,63.0,64.0,62.0,64.0
+Club Social y Deportivo Macará,63.0,66.0,63.0,62.0
+Mansfield Town,63.0,62.0,64.0,63.0
+Stabæk Fotball,63.0,64.0,63.0,62.0
+FC Dinamo 1948 Bucureşti,63.0,62.0,64.0,61.0
+SK Brann,63.0,62.0,64.0,63.0
+Wuhan FC,63.0,65.0,63.0,62.0
+Club Atlético Palmaflor,63.0,65.0,63.0,63.0
+Kalmar FF,63.0,62.0,65.0,63.0
+Sportclub Verl,63.0,64.0,63.0,62.0
+Bristol Rovers,63.0,63.0,63.0,61.0
+Odds BK,63.0,62.0,64.0,65.0
+Tranmere Rovers,63.0,62.0,61.0,63.0
+Seongnam FC,63.0,64.0,62.0,62.0
+Degerfors IF,63.0,63.0,63.0,61.0
+Górnik Łęczna,63.0,64.0,62.0,63.0
+Walsall,62.0,62.0,63.0,62.0
+Aragua Fútbol Club,62.0,64.0,62.0,62.0
+Östersunds FK,62.0,60.0,61.0,63.0
+Brisbane Roar,62.0,63.0,61.0,63.0
+Central Coast Mariners,62.0,64.0,63.0,59.0
+Crawley Town,62.0,62.0,63.0,62.0
+TSV Havelse,62.0,62.0,62.0,62.0
+Harrogate Town,62.0,64.0,63.0,61.0
+Stevenage,62.0,62.0,61.0,62.0
+FC Viktoria 1889 Berlin,62.0,61.0,63.0,62.0
+Crewe Alexandra,62.0,63.0,62.0,58.0
+Barrow,62.0,60.0,62.0,62.0
+Swindon Town,62.0,63.0,62.0,61.0
+Exeter City,62.0,62.0,63.0,63.0
+Colchester United,62.0,63.0,62.0,61.0
+AC Mineros de Guayana,62.0,61.0,63.0,62.0
+Changchun Yatai FC,62.0,65.0,64.0,59.0
+Wrexham AFC,62.0,63.0,63.0,62.0
+Tromsø IL,62.0,64.0,63.0,61.0
+Rochdale,62.0,60.0,62.0,63.0
+Leyton Orient,62.0,62.0,61.0,62.0
+FK Haugesund,62.0,62.0,62.0,62.0
+Örebro SK,62.0,58.0,64.0,61.0
+CS Mioveni,62.0,63.0,62.0,62.0
+Dalian Professional Football Club,62.0,75.0,61.0,61.0
+ATK Mohun Bagan FC,62.0,63.0,63.0,62.0
+Halmstads BK,61.0,61.0,61.0,62.0
+Varbergs BoIS FC,61.0,62.0,61.0,62.0
+SC Freiburg II,61.0,62.0,60.0,61.0
+Oldham Athletic,61.0,60.0,61.0,61.0
+Mumbai City FC,61.0,72.0,61.0,60.0
+Hartlepool United,61.0,60.0,60.0,61.0
+Bengaluru FC,61.0,62.0,59.0,59.0
+Academia Puerto Cabello,61.0,63.0,62.0,61.0
+Carlisle United,61.0,61.0,62.0,61.0
+Mjällby AIF,61.0,63.0,63.0,58.0
+Sutton United,61.0,61.0,62.0,60.0
+Sandefjord Fotball,61.0,60.0,62.0,61.0
+Mjøndalen IF,60.0,60.0,60.0,59.0
+Bohemian FC,60.0,58.0,61.0,59.0
+Sligo Rovers,60.0,61.0,59.0,61.0
+Qingdao FC,60.0,65.0,56.0,60.0
+Dundalk FC,60.0,65.0,58.0,59.0
+Hebei FC,60.0,59.0,61.0,59.0
+Chennaiyin FC,60.0,60.0,63.0,60.0
+Kerala Blasters FC,60.0,68.0,60.0,60.0
+Hyderabad FC,60.0,65.0,59.0,60.0
+Scunthorpe United,60.0,59.0,60.0,61.0
+Derry City,60.0,60.0,61.0,60.0
+FC Academica Clinceni,60.0,65.0,61.0,60.0
+NorthEast United FC,59.0,66.0,58.0,58.0
+FC Goa,59.0,63.0,59.0,60.0
+Tianjin Jinmen Tiger FC,59.0,60.0,59.0,56.0
+SC East Bengal FC,58.0,63.0,57.0,57.0
+Chongqing Liangjiang Athletic,58.0,60.0,58.0,56.0
+Shijiazhuang Ever Bright F.C.,58.0,55.0,57.0,61.0
+Odisha FC,58.0,67.0,58.0,57.0
+Jamshedpur FC,58.0,63.0,56.0,58.0
+Finn Harps,57.0,53.0,58.0,57.0
+Drogheda United,57.0,58.0,57.0,56.0
+Waterford FC,57.0,56.0,57.0,57.0
+Gaz Metan Mediaş,56.0,55.0,56.0,57.0
+Longford Town,54.0,55.0,54.0,53.0
