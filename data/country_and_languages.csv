@@ -1,0 +1,150 @@
+Country,Languages
+Afghanistan,"['ps', 'uz', 'tk']"
+Albania,['sq']
+Algeria,['ar']
+Angola,['pt']
+Antigua and Barbuda,['en']
+Argentina,"['es', 'gn']"
+Armenia,"['hy', 'ru']"
+Australia,['en']
+Austria,['de']
+Azerbaijan,"['az', 'hy']"
+Bahrain,['ar']
+Belarus,"['be', 'ru']"
+Belgium,"['nl', 'fr', 'de']"
+Benin,['fr']
+Bermuda,['en']
+Bhutan,['dz']
+Bolivia,"['es', 'ay', 'qu']"
+Bosnia and Herzegovina,"['bs', 'hr', 'sr']"
+Brazil,['pt']
+Bulgaria,['bg']
+Burkina Faso,"['fr', 'ff']"
+Burundi,"['fr', 'rn']"
+Cameroon,"['en', 'fr']"
+Canada,"['en', 'fr']"
+Central African Republic,"['fr', 'sg']"
+Chad,"['fr', 'ar']"
+Chile,['es']
+China PR,['zh']
+Chinese Taipei,['zh']
+Colombia,['es']
+Comoros,"['ar', 'fr']"
+Congo,"['fr', 'ln', 'kg', 'sw', 'lu']"
+Congo DR,"['fr', 'ln', 'kg', 'sw', 'lu']"
+Costa Rica,['es']
+Croatia,['hr']
+Cuba,['es']
+Cyprus,"['el', 'tr', 'hy']"
+Czech Republic,"['cs', 'sk']"
+Denmark,['da']
+Dominican Republic,['es']
+Ecuador,['es']
+Egypt,['ar']
+El Salvador,['es']
+England,['en']
+Equatorial Guinea,"['es', 'fr']"
+Estonia,['et']
+Ethiopia,['am']
+Faroe Islands,['fo']
+Fiji,"['en', 'fj', 'hi', 'ur']"
+Finland,"['fi', 'sv']"
+France,['fr']
+Gabon,['fr']
+Georgia,['ka']
+Germany,['de']
+Ghana,['en']
+Gibraltar,['en']
+Greece,['el']
+Guatemala,['es']
+Guinea,"['fr', 'ff']"
+Guyana,['en']
+Haiti,"['fr', 'ht']"
+Honduras,['es']
+Hong Kong,"['en', 'zh']"
+Hungary,['hu']
+Iceland,['is']
+India,"['hi', 'en']"
+Indonesia,['id']
+Iran,['fa']
+Iraq,"['ar', 'ku']"
+Israel,"['he', 'ar']"
+Italy,['it']
+Jamaica,['en']
+Japan,['ja']
+Jordan,['ar']
+Kazakhstan,"['kk', 'ru']"
+Kenya,"['en', 'sw']"
+Latvia,['lv']
+Liberia,['en']
+Libya,['ar']
+Liechtenstein,['de']
+Lithuania,['lt']
+Luxembourg,"['fr', 'de', 'lb']"
+Macau,"['zh', 'pt']"
+Madagascar,"['fr', 'mg']"
+Malawi,"['en', 'ny']"
+Malaysia,"['en', 'ms', 'ta', 'zh']"
+Mali,['fr']
+Malta,"['mt', 'en']"
+Mauritania,['ar']
+Mexico,['es']
+Moldova,['ro']
+Montserrat,['en']
+Morocco,['ar']
+Mozambique,['pt']
+Namibia,"['en', 'af']"
+Nepal,['ne']
+Netherlands,['nl']
+New Zealand,"['en', 'mi']"
+Niger,['fr']
+Nigeria,['en']
+Northern Ireland,['en']
+Norway,"['no', 'nb', 'nn']"
+Panama,['es']
+Paraguay,"['es', 'gn']"
+Peru,['es']
+Philippines,['en']
+Poland,['pl']
+Portugal,['pt']
+Puerto Rico,"['es', 'en']"
+Republic of Ireland,"['ga', 'en']"
+Romania,['ro']
+Russia,['ru']
+Rwanda,"['rw', 'en', 'fr']"
+Saint Kitts and Nevis,['en']
+Saint Lucia,['en']
+San Marino,['it']
+Saudi Arabia,['ar']
+Scotland,['en']
+Senegal,['fr']
+Serbia,['rs']
+Sierra Leone,['en']
+Singapore,"['en', 'ms', 'ta', 'zh']"
+Slovakia,['sk']
+Slovenia,['sl']
+South Africa,"['af', 'en', 'nr', 'st', 'ss', 'tn', 'ts', 've', 'xh', 'zu']"
+South Sudan,['en']
+Spain,['es']
+Sudan,"['ar', 'en']"
+Suriname,['nl']
+Sweden,['sv']
+Switzerland,"['de', 'fr', 'it']"
+Syria,['ar']
+Tanzania,"['sw', 'en']"
+Thailand,['th']
+Togo,['fr']
+Trinidad and Tobago,['en']
+Tunisia,['ar']
+Turkey,['tr']
+Uganda,"['en', 'sw']"
+Ukraine,['uk']
+United Arab Emirates,['ar']
+United States,['en']
+Uruguay,['es']
+Uzbekistan,"['uz', 'ru']"
+Venezuela,['es']
+Vietnam,['vi']
+Wales,['en']
+Zambia,['en']
+Zimbabwe,"['en', 'sn', 'nd']"
